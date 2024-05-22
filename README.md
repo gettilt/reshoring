@@ -91,7 +91,7 @@ with open('theme.csv') as file:
 | MSCI |  | google |
 | TSM |  | google |
 | VRRM |  | google |
-| BRC |  | chat_gpt |
+| BRC |  | expert |
 <!--[[[end]]]-->
 
 ## License
