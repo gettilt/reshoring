@@ -1,0 +1,542 @@
+{
+    "CAT": {
+        "chat_gpt": "Caterpillar Inc. is a leading manufacturer of construction and mining equipment, which will benefit from increased domestic infrastructure projects.",
+        "claude": "Caterpillar, a leading manufacturer of construction and mining equipment, could benefit from increased domestic infrastructure projects driven by rising nationalism and the need to rebuild local economies.",
+        "search_articles": [
+            {
+                "url": "https://www.xometry.com/resources/reshoring/reshoring-examples/",
+                "title": "6 Examples of Reshoring Companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/FLOWrensics_/status/1688904046990479360",
+                "text": "$XLI They are still in the OTM PUT blocks we had come in last week.  Will def be keeping an eye on this sector to see what we have come through in the individual names. \n\nTop holdings:  $CAT $UNP $UPS $BA $HON $RTX $GE $DE $ADP $LMT https://t.co/cPQThAh4Oa",
+                "username": "FLOWrensics_",
+                "user_url": "https://twitter.com/FLOWrensics_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1645892531547254787/G6F5hZn3_normal.jpg",
+                "date": "2023-08-08T13:24:37Z"
+            },
+            {
+                "url": "https://twitter.com/JasonP138/status/1696204706568192452",
+                "text": "$XLI industrials are sitting on a high volume shelf. On a 3 month and one month time frame it is a top 3 SPDR sector. Showing relative strength. $CAT $UNP and $BA are the top holdings in this ETF. https://t.co/lRFn5FxrHF",
+                "username": "JasonP138",
+                "user_url": "https://twitter.com/JasonP138",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1094761275903627264/fHtwKE1N_normal.jpg",
+                "date": "2023-08-28T16:54:50Z"
+            },
+            {
+                "url": "https://twitter.com/BeardoTrader/status/1775403608860975256",
+                "text": "The SPDR Industrial Sector Fund $XLI out performed the $NASDAQ 100 in the first quarter of the year.\n\nTop holdings include: $CAT $GE $UNP $UBER $RTX https://t.co/2RkFp5tpgx",
+                "username": "BeardoTrader",
+                "user_url": "https://twitter.com/BeardoTrader",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509629025765011463/xgPnDPuO_normal.jpg",
+                "date": "2024-04-03T06:03:00Z"
+            }
+        ]
+    },
+    "DE": {
+        "chat_gpt": "Deere & Company produces agricultural machinery, which will see increased demand as local farming becomes more prominent.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/FLOWrensics_/status/1688904046990479360",
+                "text": "$XLI They are still in the OTM PUT blocks we had come in last week.  Will def be keeping an eye on this sector to see what we have come through in the individual names. \n\nTop holdings:  $CAT $UNP $UPS $BA $HON $RTX $GE $DE $ADP $LMT https://t.co/cPQThAh4Oa",
+                "username": "FLOWrensics_",
+                "user_url": "https://twitter.com/FLOWrensics_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1645892531547254787/G6F5hZn3_normal.jpg",
+                "date": "2023-08-08T13:24:37Z"
+            },
+            {
+                "url": "https://twitter.com/TheFortuneTell5/status/1764347622410580040",
+                "text": "$UBER, $GE, $UPS &amp; $UNP have pushed the $XLI for a huge +7.2% gain in February, leading to the best YTD return for the sector since 2019.\n\n$HON, $BA &amp; $DE, on the other hand, haven't only underperformed but also finished in the red for the month.\n\n$ADP $CAT $LMT $RTX https://t.co/Xn0l3j0OIb",
+                "username": "TheFortuneTell5",
+                "user_url": "https://twitter.com/TheFortuneTell5",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1209952635312394240/Wv0gPmuW_normal.jpg",
+                "date": "2024-03-03T17:50:27Z"
+            },
+            {
+                "url": "https://twitter.com/marketsday/status/1754879620313481266",
+                "text": "Bulletproof Companies. \n\nThese companies have strong fundamentals and are in industries that are not as affected by economic downturns.\n\nIndustry- $UNP $CAT $DE $UNH $FDX $WM\n\nHealthcare- $PFE $LLY $JNJ $MCK $UPS $MRK $UNH\n\nFood &amp; Drinks- $PEP $MDLZ $UL $KO $KHC $CMG",
+                "username": "marketsday",
+                "user_url": "https://twitter.com/marketsday",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1663896858106953728/MxzxFq6o_normal.jpg",
+                "date": "2024-02-06T14:48:00Z"
+            }
+        ]
+    },
+    "DHI": {
+        "chat_gpt": "D.R. Horton, Inc. is a leading homebuilder that will benefit from increased domestic construction.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "F": {
+        "chat_gpt": "Ford Motor Company, as a U.S.-based automaker, will benefit from a shift towards buying locally manufactured vehicles.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.xometry.com/resources/reshoring/reshoring-examples/",
+                "title": "6 Examples of Reshoring Companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "FDX": {
+        "chat_gpt": "FedEx Corporation will benefit from increased demand for domestic shipping and logistics services.",
+        "claude": "FedEx, a global shipping and logistics company, could see increased demand for its services as domestic manufacturing and e-commerce grow, requiring reliable shipping solutions.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "GM": {
+        "chat_gpt": "General Motors Company will also benefit from increased demand for domestically produced cars.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.glassdoor.com/Explore/top-manufacturing-companies-united-states_IS.4,17_ISEC10015_IL.28,41_IN1.htm",
+                "title": "Top Manufacturing Companies in United States | Glassdoor",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.infocleanse.com/biggest-manufacturing-companies-in-usa/",
+                "title": "10 Biggest U.S. Manufacturing Companies",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://manufacturingdigital.com/smart-manufacturing/top-10-usa-manufacturing-companies",
+                "title": "Top 10 USA manufacturing companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "HD": {
+        "chat_gpt": "The Home Depot, Inc. will see increased sales as more people buy locally sourced building materials and home improvement products.",
+        "claude": "Home Depot, a leading home improvement retailer, may see increased demand for its products as domestic construction and infrastructure projects grow.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "LEN": {
+        "chat_gpt": "Lennar Corporation, another major homebuilder, will also see gains from the rise in domestic construction projects.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "MAS": {
+        "chat_gpt": "Masco Corporation manufactures home improvement and building products, benefiting from increased domestic construction and renovation.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "MLM": {
+        "chat_gpt": "Martin Marietta Materials, Inc. is another key supplier of construction materials, benefiting from increased domestic projects.",
+        "claude": "Martin Marietta, a supplier of building materials, could benefit from the expansion of domestic construction and infrastructure projects.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "MMM": {
+        "chat_gpt": "3M Company, a diversified manufacturer, will benefit from increased demand for locally produced industrial and consumer products.",
+        "claude": "3M, a global manufacturer of various products, including personal protective equipment and industrial adhesives, may see increased demand as domestic manufacturing expands.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "NUE": {
+        "chat_gpt": "Nucor Corporation is a major U.S. steel producer, benefiting from increased demand for domestic steel in construction and manufacturing.",
+        "claude": "Nucor, the largest U.S. steel producer, could benefit from tariffs on imported steel and the growing demand for domestically produced steel products.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "SHW": {
+        "chat_gpt": "Sherwin-Williams Company, a leading paint and coatings manufacturer, will benefit from increased construction and renovation activities.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "UNP": {
+        "chat_gpt": "Union Pacific Corporation, another major U.S. railroad, will also see gains from increased domestic freight transportation.",
+        "claude": "Union Pacific, a major U.S. railroad company, may benefit from increased domestic freight transportation needs as manufacturing and infrastructure projects expand.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/Quality_stocksA/status/1779507510413513019",
+                "text": "\ud83d\ude82 Railway sector one pager\n\n\ud83d\udcc8 The railway sector is expected to grow between 5 and 6% a year in the next years\n\n\ud83d\udd0d Some stocks to watch in the sector\n\ud83c\uddeb\ud83c\uddf7 Alstom $ALO \u26a0\ufe0f current issues\n\ud83c\udde8\ud83c\udde6 Canadian Nat. Railway $CNR\n\ud83c\udde8\ud83c\udde6 Canadian Pacific $CP\n\ud83c\uddfa\ud83c\uddf8 Union Pacific $UNP\n\ud83c\uddee\ud83c\uddf3 Ind. Railway Finance $IRFC\n\ud83c\uddfa\ud83c\uddf8 CSX $CSX\n\ud83c\uddee\ud83c\uddf3 Jupiter Wagons $JWL\n\ud83c\udde9\ud83c\uddea Knorr Bremse $KBX\n\n3 main elements to watch\n1\u20e3 Infrastructure investment, as a growth driver\n2\u20e3 Interest rate, as this is a capital-intensive sector\n3\u20e3 ESG constraints, being a growth driver\n\nNo specific ETF for railways, but here are 2 ETFs with a lot of railway companies in it\n$INFR iShares Global Infrastructure\n$SUPL Proshares Supply Chain Logistics",
+                "username": "Quality_stocksA",
+                "user_url": "https://twitter.com/Quality_stocksA",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1561374422199672838/TBbNejPu_normal.jpg",
+                "date": "2024-04-14T13:50:26Z"
+            },
+            {
+                "url": "https://twitter.com/unipolycoin/status/1759548986753470612",
+                "text": "\ud83d\udca1 Say goodbye to centralized gaming models! \n\n\u2728 Unipolycoin is paving the way for transparency, security, and democratization in the Web3 gaming industry.\n\n$UNP #Web3Gaming #Decentralization https://t.co/tUhAukq3p1",
+                "username": "unipolycoin",
+                "user_url": "https://twitter.com/unipolycoin",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687097722778865665/sjQfT2iD_normal.jpg",
+                "date": "2024-02-19T12:02:23Z"
+            },
+            {
+                "url": "https://twitter.com/FLOWrensics_/status/1688904046990479360",
+                "text": "$XLI They are still in the OTM PUT blocks we had come in last week.  Will def be keeping an eye on this sector to see what we have come through in the individual names. \n\nTop holdings:  $CAT $UNP $UPS $BA $HON $RTX $GE $DE $ADP $LMT https://t.co/cPQThAh4Oa",
+                "username": "FLOWrensics_",
+                "user_url": "https://twitter.com/FLOWrensics_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1645892531547254787/G6F5hZn3_normal.jpg",
+                "date": "2023-08-08T13:24:37Z"
+            }
+        ]
+    },
+    "UPS": {
+        "chat_gpt": "United Parcel Service, Inc. will also see increased demand for domestic shipping and logistics.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/FLOWrensics_/status/1688904046990479360",
+                "text": "$XLI They are still in the OTM PUT blocks we had come in last week.  Will def be keeping an eye on this sector to see what we have come through in the individual names. \n\nTop holdings:  $CAT $UNP $UPS $BA $HON $RTX $GE $DE $ADP $LMT https://t.co/cPQThAh4Oa",
+                "username": "FLOWrensics_",
+                "user_url": "https://twitter.com/FLOWrensics_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1645892531547254787/G6F5hZn3_normal.jpg",
+                "date": "2023-08-08T13:24:37Z"
+            },
+            {
+                "url": "https://twitter.com/TheFortuneTell5/status/1764347622410580040",
+                "text": "$UBER, $GE, $UPS &amp; $UNP have pushed the $XLI for a huge +7.2% gain in February, leading to the best YTD return for the sector since 2019.\n\n$HON, $BA &amp; $DE, on the other hand, haven't only underperformed but also finished in the red for the month.\n\n$ADP $CAT $LMT $RTX https://t.co/Xn0l3j0OIb",
+                "username": "TheFortuneTell5",
+                "user_url": "https://twitter.com/TheFortuneTell5",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1209952635312394240/Wv0gPmuW_normal.jpg",
+                "date": "2024-03-03T17:50:27Z"
+            },
+            {
+                "url": "https://twitter.com/cenk_yildiran/status/1766383098399170705",
+                "text": "Industrials Sector ETF (XLI)\n$GE (5.87%) and $UPS (3.98%) were the top two gainers of $XLI \u2019s last week. On the contrary, three of the companies were in red: $ADP (-2.36%), $UNP (-0.80%), and $BA (-0.75%). https://t.co/QhKXq9mmjk",
+                "username": "cenk_yildiran",
+                "user_url": "https://twitter.com/cenk_yildiran",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1764252311398805504/B8vYGAUV_normal.jpg",
+                "date": "2024-03-09T08:38:43Z"
+            }
+        ]
+    },
+    "VMC": {
+        "chat_gpt": "Vulcan Materials Company supplies construction aggregates, essential for building infrastructure.",
+        "claude": "Vulcan Materials, a producer of construction aggregates, may see increased demand as domestic infrastructure projects and construction activities grow.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "WHR": {
+        "chat_gpt": "Whirlpool Corporation, a major U.S. appliance manufacturer, will see increased demand for locally made products.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "X": {
+        "chat_gpt": "United States Steel Corporation will benefit from tariffs on imported steel and increased domestic infrastructure projects.",
+        "claude": "U.S. Steel, a major domestic steel producer, may see increased demand for its products as tariffs on imported steel and the focus on local manufacturing boost the U.S. steel industry.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "AMZN": {
+        "chat_gpt": null,
+        "claude": "Amazon, with its strong domestic presence and extensive logistics network, may benefit from the growing trend of buying locally and the need for efficient domestic distribution.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "GE": {
+        "chat_gpt": null,
+        "claude": "GE, a diversified industrial company, may benefit from increased domestic manufacturing and infrastructure projects, particularly in the energy and transportation sectors.",
+        "search_articles": [
+            {
+                "url": "https://www.xometry.com/resources/reshoring/reshoring-examples/",
+                "title": "6 Examples of Reshoring Companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "HON": {
+        "chat_gpt": null,
+        "claude": "Honeywell, a diversified technology and manufacturing company, could benefit from the growing demand for automation and connected solutions in domestic manufacturing facilities.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "J": {
+        "chat_gpt": null,
+        "claude": "Jacobs Engineering, a provider of technical and construction services, may see increased opportunities as domestic infrastructure and manufacturing projects expand.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "LMT": {
+        "chat_gpt": null,
+        "claude": "Lockheed Martin, a leading defense contractor, could benefit from rising nationalism and potential increases in defense spending to protect borders and domestic interests.",
+        "search_articles": [
+            {
+                "url": "https://www.infocleanse.com/biggest-manufacturing-companies-in-usa/",
+                "title": "10 Biggest U.S. Manufacturing Companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/FLOWrensics_/status/1688904046990479360",
+                "text": "$XLI They are still in the OTM PUT blocks we had come in last week.  Will def be keeping an eye on this sector to see what we have come through in the individual names. \n\nTop holdings:  $CAT $UNP $UPS $BA $HON $RTX $GE $DE $ADP $LMT https://t.co/cPQThAh4Oa",
+                "username": "FLOWrensics_",
+                "user_url": "https://twitter.com/FLOWrensics_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1645892531547254787/G6F5hZn3_normal.jpg",
+                "date": "2023-08-08T13:24:37Z"
+            },
+            {
+                "url": "https://twitter.com/TheFortuneTell5/status/1764347622410580040",
+                "text": "$UBER, $GE, $UPS &amp; $UNP have pushed the $XLI for a huge +7.2% gain in February, leading to the best YTD return for the sector since 2019.\n\n$HON, $BA &amp; $DE, on the other hand, haven't only underperformed but also finished in the red for the month.\n\n$ADP $CAT $LMT $RTX https://t.co/Xn0l3j0OIb",
+                "username": "TheFortuneTell5",
+                "user_url": "https://twitter.com/TheFortuneTell5",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1209952635312394240/Wv0gPmuW_normal.jpg",
+                "date": "2024-03-03T17:50:27Z"
+            },
+            {
+                "url": "https://twitter.com/NickRokke/status/1712894957885730940",
+                "text": "Watching early earnings for industry trends can be a profitable endeavor. $ASML, $LRCX and $TSM will give valuable intel on the health of the semiconductor market. $LMT to tell us about demand for defense. $UNP and $CSX will tell us what's shipping. $UAL and $AAL will tell us about consumer travel. Time to get busy.",
+                "username": "NickRokke",
+                "user_url": "https://twitter.com/NickRokke",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1445073878762590220/urg5w3Nm_normal.jpg",
+                "date": "2023-10-13T18:15:56Z"
+            }
+        ]
+    },
+    "ROK": {
+        "chat_gpt": null,
+        "claude": "Rockwell Automation, a provider of industrial automation solutions, could see increased demand as domestic manufacturers invest in modernizing their facilities.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "TER": {
+        "chat_gpt": null,
+        "claude": "Teradyne, a leading supplier of automated test equipment, may benefit from the expansion of domestic manufacturing and the need for quality control solutions.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "WMT": {
+        "chat_gpt": null,
+        "claude": "Walmart, the largest U.S. retailer, could benefit from the growing trend of buying locally as consumers focus on supporting domestic businesses and products.",
+        "search_articles": [
+            {
+                "url": "https://www.xometry.com/resources/reshoring/reshoring-examples/",
+                "title": "6 Examples of Reshoring Companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CMG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/marketsday/status/1754879620313481266",
+                "text": "Bulletproof Companies. \n\nThese companies have strong fundamentals and are in industries that are not as affected by economic downturns.\n\nIndustry- $UNP $CAT $DE $UNH $FDX $WM\n\nHealthcare- $PFE $LLY $JNJ $MCK $UPS $MRK $UNH\n\nFood &amp; Drinks- $PEP $MDLZ $UL $KO $KHC $CMG",
+                "username": "marketsday",
+                "user_url": "https://twitter.com/marketsday",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1663896858106953728/MxzxFq6o_normal.jpg",
+                "date": "2024-02-06T14:48:00Z"
+            },
+            {
+                "url": "https://twitter.com/marketsday/status/1761205690776084754",
+                "text": "Bulletproof Companies. \n\nThese companies have strong fundamentals and are in industries that are not as affected by economic downturns.\n\nIndustry- $UNP $CAT $DE $UNH $FDX $WM\n\nHealthcare- $PFE $LLY $JNJ $MCK $UPS $MRK $UNH\n\nFood &amp; Drinks- $PEP $MDLZ $UL $KO $KHC $CMG",
+                "username": "marketsday",
+                "user_url": "https://twitter.com/marketsday",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1663896858106953728/MxzxFq6o_normal.jpg",
+                "date": "2024-02-24T01:45:32Z"
+            },
+            {
+                "url": "https://twitter.com/n35415793/status/1712966452230389932",
+                "text": "Underrated Industries + Stocks \ud83d\udcb7\n\nFinancial Data - $SPGI, $MCO, $MSCI\nAerospace/Defense - $LMT, $RTX, $GD\nRestaurants - $SBUX, $MCD, $CMG\nRailroads - $CNI, $UNP, $CP\nREIT (Industrial) - $PSA, $PLD, $EXR\nSolar Energy - $ENPH, $BEPC, $FSLR\n\nWhat is the most Underrated Industry?",
+                "username": "n35415793",
+                "user_url": "https://twitter.com/n35415793",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1692584131064971264/MWhBbEss_normal.jpg",
+                "date": "2023-10-13T23:00:02Z"
+            }
+        ]
+    },
+    "CNI": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TLK_Adam/status/1721096912223264770",
+                "text": "I\u2019ve been building out a mini \u2018ETF\u2019 of quality logistics firms over time. This sector may be facing headwinds from weakening freight volumes, but keep these on a watchlist for buying opportunities\n\nTrucking $ODFL $TFII\n3rd party logistics services $EXPD $LSTR\nRail $UNP $CNI\n\nLSTR https://t.co/wRslOJ1DDn",
+                "username": "TLK_Adam",
+                "user_url": "https://twitter.com/TLK_Adam",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1755397259196350466/TMhPo9QE_normal.jpg",
+                "date": "2023-11-05T09:27:34Z"
+            },
+            {
+                "url": "https://twitter.com/ValueLine/status/1728141441044521443",
+                "text": "Discover our new Featured Commentary on the Railroad Industry. https://t.co/rEDbhLqE9M $CNI $CP $CSX $NSC $UNP #Railroad #Stocks https://t.co/iL2IimTFZD",
+                "username": "ValueLine",
+                "user_url": "https://twitter.com/ValueLine",
+                "user_image_url": "https://pbs.twimg.com/profile_images/467407351532617728/9AX4Qx3w_normal.png",
+                "date": "2023-11-24T20:00:01Z"
+            },
+            {
+                "url": "https://twitter.com/AchintInvesting/status/1726452379145695325",
+                "text": "5 Railways worth owning:\n\n        $UNP\n$NSC\n$CSX\n$CP\n$CNI\n\nRailway stocks are often considered good investments for two primary reasons. \n\nFirstly, railways operate in an essential industry, providing a crucial transportation infrastructure that is fundamental to economic activities. This inherent importance contributes to a steady demand for their services. \n\nSecondly, railway companies tend to have significant barriers to entry, as building and maintaining rail networks require substantial capital investments. This barrier helps established railway companies maintain their market positions and can lead to a more stable competitive landscape, making them attractive to investors seeking reliability in their portfolios.",
+                "username": "AchintInvesting",
+                "user_url": "https://twitter.com/AchintInvesting",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1716113560575852544/LV_Vqosk_normal.jpg",
+                "date": "2023-11-20T04:08:17Z"
+            }
+        ]
+    },
+    "CP": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/knockouttrader/status/1764592237696913827",
+                "text": "UBS positive on U.S. Railroads tdy\n\nUpgrading $NSC to Buy and raising EPS and PTs to reflect a more optimistic volume and valuation backdrop across the sector\n\n$CSX $40 -&gt; $46\n$UNP $248 -&gt; $283\n$CN C$176 -&gt; C$205\n$CP C$114 -&gt; C$136",
+                "username": "knockouttrader",
+                "user_url": "https://twitter.com/knockouttrader",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1767533688630173696/aucGINIP_normal.jpg",
+                "date": "2024-03-04T10:02:28Z"
+            },
+            {
+                "url": "https://twitter.com/Quality_stocksA/status/1779507510413513019",
+                "text": "\ud83d\ude82 Railway sector one pager\n\n\ud83d\udcc8 The railway sector is expected to grow between 5 and 6% a year in the next years\n\n\ud83d\udd0d Some stocks to watch in the sector\n\ud83c\uddeb\ud83c\uddf7 Alstom $ALO \u26a0\ufe0f current issues\n\ud83c\udde8\ud83c\udde6 Canadian Nat. Railway $CNR\n\ud83c\udde8\ud83c\udde6 Canadian Pacific $CP\n\ud83c\uddfa\ud83c\uddf8 Union Pacific $UNP\n\ud83c\uddee\ud83c\uddf3 Ind. Railway Finance $IRFC\n\ud83c\uddfa\ud83c\uddf8 CSX $CSX\n\ud83c\uddee\ud83c\uddf3 Jupiter Wagons $JWL\n\ud83c\udde9\ud83c\uddea Knorr Bremse $KBX\n\n3 main elements to watch\n1\u20e3 Infrastructure investment, as a growth driver\n2\u20e3 Interest rate, as this is a capital-intensive sector\n3\u20e3 ESG constraints, being a growth driver\n\nNo specific ETF for railways, but here are 2 ETFs with a lot of railway companies in it\n$INFR iShares Global Infrastructure\n$SUPL Proshares Supply Chain Logistics",
+                "username": "Quality_stocksA",
+                "user_url": "https://twitter.com/Quality_stocksA",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1561374422199672838/TBbNejPu_normal.jpg",
+                "date": "2024-04-14T13:50:26Z"
+            },
+            {
+                "url": "https://twitter.com/NobleAscension/status/1779664364833829157",
+                "text": "Railway sector one pager\n\n\ud83c\uddeb\ud83c\uddf7Alstom $ALO \u26a0\ufe0f current issues\n\ud83c\udde8\ud83c\udde6 Canadian Nat. Railway $CNR\n\ud83c\udde8\ud83c\udde6 Canadian Pacific $CP\n\ud83c\uddfa\ud83c\uddf8 Union Pacific $UNP\n\ud83c\uddee\ud83c\uddf3 Ind. Railway Finance $IRFC\n\ud83c\uddfa\ud83c\uddf8 CSX $CSX\n\ud83c\uddee\ud83c\uddf3 Jupiter Wagons $JWL\n\ud83c\udde9\ud83c\uddea Knorr Bremse $KBX\n\n3 main elements to watch\n1\u20e3 Infrastructure investment, as a growth driver\n2\u20e3 Interest rate, as this is a capital-intensive sector\n3\u20e3 ESG constraints, being a growth driver\n\nNo specific ETF for railways, but here are 2 ETFs with a lot of railway companies in it\n$INFR iShares Global Infrastructure\n$SUPL Proshares Supply Chain Logistics",
+                "username": "NobleAscension",
+                "user_url": "https://twitter.com/NobleAscension",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1775912965109133312/CY9Y6T9v_normal.jpg",
+                "date": "2024-04-15T00:13:43Z"
+            }
+        ]
+    },
+    "RTX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/FLOWrensics_/status/1688904046990479360",
+                "text": "$XLI They are still in the OTM PUT blocks we had come in last week.  Will def be keeping an eye on this sector to see what we have come through in the individual names. \n\nTop holdings:  $CAT $UNP $UPS $BA $HON $RTX $GE $DE $ADP $LMT https://t.co/cPQThAh4Oa",
+                "username": "FLOWrensics_",
+                "user_url": "https://twitter.com/FLOWrensics_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1645892531547254787/G6F5hZn3_normal.jpg",
+                "date": "2023-08-08T13:24:37Z"
+            },
+            {
+                "url": "https://twitter.com/BeardoTrader/status/1775403608860975256",
+                "text": "The SPDR Industrial Sector Fund $XLI out performed the $NASDAQ 100 in the first quarter of the year.\n\nTop holdings include: $CAT $GE $UNP $UBER $RTX https://t.co/2RkFp5tpgx",
+                "username": "BeardoTrader",
+                "user_url": "https://twitter.com/BeardoTrader",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1509629025765011463/xgPnDPuO_normal.jpg",
+                "date": "2024-04-03T06:03:00Z"
+            },
+            {
+                "url": "https://twitter.com/TheFortuneTell5/status/1764347622410580040",
+                "text": "$UBER, $GE, $UPS &amp; $UNP have pushed the $XLI for a huge +7.2% gain in February, leading to the best YTD return for the sector since 2019.\n\n$HON, $BA &amp; $DE, on the other hand, haven't only underperformed but also finished in the red for the month.\n\n$ADP $CAT $LMT $RTX https://t.co/Xn0l3j0OIb",
+                "username": "TheFortuneTell5",
+                "user_url": "https://twitter.com/TheFortuneTell5",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1209952635312394240/Wv0gPmuW_normal.jpg",
+                "date": "2024-03-03T17:50:27Z"
+            }
+        ]
+    },
+    "WM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/marketsday/status/1754879620313481266",
+                "text": "Bulletproof Companies. \n\nThese companies have strong fundamentals and are in industries that are not as affected by economic downturns.\n\nIndustry- $UNP $CAT $DE $UNH $FDX $WM\n\nHealthcare- $PFE $LLY $JNJ $MCK $UPS $MRK $UNH\n\nFood &amp; Drinks- $PEP $MDLZ $UL $KO $KHC $CMG",
+                "username": "marketsday",
+                "user_url": "https://twitter.com/marketsday",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1663896858106953728/MxzxFq6o_normal.jpg",
+                "date": "2024-02-06T14:48:00Z"
+            },
+            {
+                "url": "https://twitter.com/GuliaksRenars/status/1710256724068667575",
+                "text": "Industrial US dividend growth stocks on my watchlist as per industry:\n\nRailroads\n$UNP\n\nFarm &amp; Heavy Construction Machinery\n$DE\n\nTools &amp; Accessories \n$SNA\n\nWaste Management \n$WM\n\nStaffing &amp; Employment Services \n$RHI https://t.co/1RC7jwFbGF",
+                "username": "GuliaksRenars",
+                "user_url": "https://twitter.com/GuliaksRenars",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1762448913905143809/1al76D1Q_normal.jpg",
+                "date": "2023-10-06T11:32:32Z"
+            },
+            {
+                "url": "https://twitter.com/marketsday/status/1761205690776084754",
+                "text": "Bulletproof Companies. \n\nThese companies have strong fundamentals and are in industries that are not as affected by economic downturns.\n\nIndustry- $UNP $CAT $DE $UNH $FDX $WM\n\nHealthcare- $PFE $LLY $JNJ $MCK $UPS $MRK $UNH\n\nFood &amp; Drinks- $PEP $MDLZ $UL $KO $KHC $CMG",
+                "username": "marketsday",
+                "user_url": "https://twitter.com/marketsday",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1663896858106953728/MxzxFq6o_normal.jpg",
+                "date": "2024-02-24T01:45:32Z"
+            }
+        ]
+    },
+    "FER": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wallstreetzen.com/industries/best-infrastructure-stocks",
+                "title": "Best Infrastructure Stocks to Buy Now (2024)",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "INTC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://markets.businessinsider.com/news/stocks/homebound-winners-who-will-benefit-from-the-reshoring-mega-trend-1032735213",
+                "title": "Homebound Winners: Who will Benefit from the Reshoring ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/04/made-in-the-usa-3-stocks-poised-to-profit-from-the-reshoring-boom/",
+                "title": "3 Stocks Poised to Profit From the Reshoring Boom",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "TSM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://markets.businessinsider.com/news/stocks/homebound-winners-who-will-benefit-from-the-reshoring-mega-trend-1032735213",
+                "title": "Homebound Winners: Who will Benefit from the Reshoring ...",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://investorplace.com/2024/04/made-in-the-usa-3-stocks-poised-to-profit-from-the-reshoring-boom/",
+                "title": "3 Stocks Poised to Profit From the Reshoring Boom",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "VRRM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wallstreetzen.com/industries/best-infrastructure-stocks",
+                "title": "Best Infrastructure Stocks to Buy Now (2024)",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    }
+}
