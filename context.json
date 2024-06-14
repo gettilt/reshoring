@@ -481,18 +481,6 @@
             }
         ]
     },
-    "FER": {
-        "chat_gpt": null,
-        "claude": null,
-        "search_articles": [
-            {
-                "url": "https://www.wallstreetzen.com/industries/best-infrastructure-stocks",
-                "title": "Best Infrastructure Stocks to Buy Now (2024)",
-                "youtube_embed_url": null
-            }
-        ],
-        "tweets": []
-    },
     "INTC": {
         "chat_gpt": null,
         "claude": null,
