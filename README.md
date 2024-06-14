@@ -86,7 +86,6 @@ with open('theme.csv') as file:
 | CP |  | twitter |
 | RTX |  | twitter |
 | WM |  | twitter |
-| FER |  | google |
 | INTC |  | google |
 | MSCI |  | google |
 | TSM |  | google |
